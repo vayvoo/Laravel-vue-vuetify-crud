@@ -1,0 +1,2 @@
+# Laravel vue vuetify crud
+ 
